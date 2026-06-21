@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: YOUR_DOCKERHUB_USERNAME/mern-frontend:latest
+          image: saaddasim05/mern-frontend:latest
           ports:
             - containerPort: 80
           resources:
