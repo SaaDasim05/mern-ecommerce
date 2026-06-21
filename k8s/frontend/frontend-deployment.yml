@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: saaddasim05/mern-frontend:latest
+          image: saadasim05/mern-frontend:latest
           ports:
             - containerPort: 80
           resources:
