@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: saaddasim05/mern-backend:latest
+          image: saadasim05/mern-backend:latest
           ports:
             - containerPort: 5000
           env:
