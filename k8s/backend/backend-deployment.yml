@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: YOUR_DOCKERHUB_USERNAME/mern-backend:latest
+          image: saaddasim05/mern-backend:latest
           ports:
             - containerPort: 5000
           env:
